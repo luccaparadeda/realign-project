@@ -1,5 +1,17 @@
 # Realign Project
 
+**Project description:**
+
+I was challenged to deploy a simple project with the following functionalities, all to be completed within exactly 6 counted hours:
+
+- Creation of a page for selling a product, allowing clients to input their phone number and email.
+- Development of a data visualizer for the sales team, facilitating client communication.
+- Implementation of UTM data to inform the marketing team about the performance of campaigns.
+- Integration of analytics tools to track user interactions and glean insights for optimization.
+- Adoption of a tech stack with which I wasn't previously familiar.
+
+---
+
 **To-dos:**
 
 - [x] Backend - Database Schema - Database - 1h
